@@ -4,7 +4,7 @@ name: دانلودر یوتیوب پیشرفته
 on:
   workflow_dispatch:
     inputs:
-      video_url:
+      video_url:https://youtu.be/DON29eZcUlg?si=p9HL5ttbRI5h8kbE
         description: 'YouTube URL (video or playlist)'
         required: true
         type: string
